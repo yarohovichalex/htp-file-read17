@@ -1,0 +1,13 @@
+D:\Kursy\htp-librory\src\main\java\by\htp\librory\action\BaseAction.java
+D:\Kursy\htp-librory\src\main\java\by\htp\librory\controller\ConsoleMainController.java
+D:\Kursy\htp-librory\src\main\java\by\htp\librory\dao\simple\BookDaoFileImpl.java
+D:\Kursy\htp-librory\src\main\java\by\htp\librory\bean\User.java
+D:\Kursy\htp-librory\src\main\java\by\htp\librory\dao\BookDao.java
+D:\Kursy\htp-librory\src\main\java\by\htp\librory\bean\Entity.java
+D:\Kursy\htp-librory\src\main\java\by\htp\librory\controller\SimpleServletController.java
+D:\Kursy\htp-librory\src\main\java\by\htp\librory\bean\Author.java
+D:\Kursy\htp-librory\src\main\java\by\htp\librory\action\util\ActionManager.java
+D:\Kursy\htp-librory\src\main\java\by\htp\librory\action\console\HelloWorldConsoleImpl.java
+D:\Kursy\htp-librory\src\main\java\by\htp\librory\bean\Book.java
+D:\Kursy\htp-librory\src\main\java\by\htp\librory\dao\database\BookDaoMySqlImpl.java
+D:\Kursy\htp-librory\src\main\java\by\htp\librory\dao\BaseDao.java

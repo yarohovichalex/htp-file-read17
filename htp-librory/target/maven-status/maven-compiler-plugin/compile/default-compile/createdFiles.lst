@@ -1,0 +1,13 @@
+by\htp\librory\bean\Entity.class
+by\htp\librory\bean\Book.class
+by\htp\librory\bean\User.class
+by\htp\librory\controller\ConsoleMainController.class
+by\htp\librory\dao\database\BookDaoMySqlImpl.class
+by\htp\librory\dao\simple\BookDaoFileImpl.class
+by\htp\librory\dao\BookDao.class
+by\htp\librory\action\BaseAction.class
+by\htp\librory\action\util\ActionManager.class
+by\htp\librory\controller\SimpleServletController.class
+by\htp\librory\action\console\HelloWorldConsoleImpl.class
+by\htp\librory\bean\Author.class
+by\htp\librory\dao\BaseDao.class
